@@ -20,7 +20,7 @@ function ProjectList() {
     caption: "Youtube",
     url: "https://www.youtube.com/@businessgame/featured"
   }), React.createElement(Project, {
-    img: "image/Avatar Builder.png",
+    img: "image/Avatar builder.png",
     caption: "Unseen World",
     url: "https://unseenworld.substack.com/"
   }), React.createElement(Project, {
