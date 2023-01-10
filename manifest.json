@@ -1,0 +1,23 @@
+{
+    "name": "Hoa Dang",
+    "short_name": "Ben",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "file:///Users/ben/Desktop/Website/image/Avatar builder.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "file:///Users/ben/Desktop/Website/image/Avatar builder.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ],
+    "theme_color": "#000000",
+    "background_color": "#FFFFFF",
+    "display": "fullscreen",
+    "orientation": "portrait"
+}
