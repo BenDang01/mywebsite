@@ -19,7 +19,7 @@ body::before{
     right: 0px;
     bottom: 0px;
     left: 0px;
-    background-image: url(image/background.JPG);
+    background-image: url(.image/background.JPG);
     background-size: cover;
     background-position: top-center;
     opacity: 0.2;
