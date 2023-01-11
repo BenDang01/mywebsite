@@ -1,9 +1,15 @@
+html{
+    height: -webkit-fill-available;
+}
+
 #img-container {
     position: relative;
     text-align: center;
     display: flex;
     flex-direction: row;
+    height: -webkit-fill-available;
 }
+
 
 figure {
     margin: auto;
@@ -16,6 +22,7 @@ figure img {
     border-radius: 50%;
     width: 200px;
     height: 200px;
+    height: -webkit-fill-available;
 }
 
 figure a {
@@ -27,6 +34,7 @@ figure a {
 figcaption {
     font-size: 2.5vh;
     font-weight: 600;
+    height: -webkit-fill-available;
 }
   
 @media screen and (max-width: 1140px){
