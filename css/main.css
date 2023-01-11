@@ -44,14 +44,20 @@ footer {
     padding: 5vh;
 }
 
+html {
+    height: -webkit-fill-available;
+}
+
 #about-text, #sub-header {
     font-size: 2.3vh;
     line-height: 1.6;
     font-weight:400;
+    height: -webkit-fill-available;
 }
 
 #main-header, #sub-header {
     text-align: center;
+    height: -webkit-fill-available;
 }
 
 #main-header {
@@ -70,6 +76,7 @@ footer {
 #about-header {
     font-size: 4vh;
     font-weight: bold;
+    height: -webkit-fill-available;
 }
 
 .center, #contact-container {
