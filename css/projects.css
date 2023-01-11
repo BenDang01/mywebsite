@@ -1,13 +1,8 @@
-html{
-    height: -webkit-fill-available;
-}
-
 #img-container {
     position: relative;
     text-align: center;
     display: flex;
     flex-direction: row;
-    height: -webkit-fill-available;
 }
 
 
@@ -22,7 +17,6 @@ figure img {
     border-radius: 50%;
     width: 200px;
     height: 200px;
-    height: -webkit-fill-available;
 }
 
 figure a {
