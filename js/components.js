@@ -16,11 +16,11 @@ function ProjectList() {
   return React.createElement("div", {
     id: "img-container"
   }, React.createElement(Project, {
-    img: "image/Youtube.png",
+    img: "../image/Youtube.png",
     caption: "Youtube",
     url: "https://www.youtube.com/@businessgame/featured"
   }), React.createElement(Project, {
-    img: "image/Avatar Builder.png",
+    img: "../image/Avatar Builder.png",
     caption: "Unseen World",
     url: "https://unseenworld.substack.com/"
   }));
