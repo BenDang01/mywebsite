@@ -1,5 +1,4 @@
 "use strict";
-
 function Project(props) {
   return React.createElement("figure", null, React.createElement("a", {
     href: props.url,
@@ -11,7 +10,6 @@ function Project(props) {
     target: "_blank"
   }, props.caption)));
 }
-
 function ProjectList() {
   return React.createElement("div", {
     id: "img-container"
@@ -23,6 +21,10 @@ function ProjectList() {
     img: "image/Avatar builder.png",
     caption: "Unseen World",
     url: "https://unseenworld.substack.com/"
+  }), React.createElement(Project, {
+    img: "image/ReactionTest_IMG.PNG",
+    caption: "Coming Soon",
+    url: "..."
   }));
 }
 
