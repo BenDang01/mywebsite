@@ -46,8 +46,8 @@ footer {
 
 
 #about-text, #sub-header {
-    font-size: 2.3vh;
-    line-height: 1.6;
+    font-size: 2vh;
+    line-height: 1.4;
     font-weight:400;
 }
 
@@ -69,7 +69,7 @@ footer {
 
 
 #about-header {
-    font-size: 4vh;
+    font-size: 3vh;
     font-weight: bold;
 }
 
