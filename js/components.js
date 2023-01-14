@@ -23,10 +23,6 @@ function ProjectList() {
     img: "image/Avatar builder.png",
     caption: "Unseen World",
     url: "https://unseenworld.substack.com/"
-  }), React.createElement(Project, {
-    img: "image/ReactionTest_IMG.PNG",
-    caption: "Coming Soon",
-    url: "..."
   }));
 }
 
